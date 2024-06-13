@@ -4,8 +4,6 @@
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-7
-main.py,f/1/f1bdda93d9a278e358509d498e17d97764c1fb29
 D
 map_with_circle.html,f/8/f8b41f21a612fac3f3086e5718355c3864bdc45e
 L
@@ -21,11 +19,16 @@ I부울경인계점위치_권역외상반경10제외_중간좌표색0.html,c/d/
 :
 
 좌표.csv,c/d/cd51ff4fb4c14a00d65c2b36f2a7985bca0f815f
-9
-	newdim.py,0/b/0b8d42d997d6907f47cf1a10b0ad3a8e6c20f377
-9
-	safety.py,7/5/7573feb5ff6d06d30b566e157ad2e72e43a689a4
 <
 visualize.py,0/9/094189399a0f6d9523937353456b76bc5b1fb27b
-7
-evol.py,7/4/74745567e40b941bd196217d801472a8b2ae6ce5
+8
+stati.py,6/8/6857ff7b7f45ae40281f88790e65479f6fdcb422
+9
+	golden.py,2/5/2550845f821222f863e7a74bee9f2047ab29b865
+=
+make_histo.py,2/c/2c6c9cfd040c5b9ba0796d002436461c84539967
+:
+
+genetic.py,7/6/76da6dc8b5148625caa736c9d24118b1823d5870
+?
+visual_ingae.py,9/c/9c4b983b800c6de8fcb933ef33f16121d0f70526

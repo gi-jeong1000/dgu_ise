@@ -1,3 +1,6 @@
 venv
 *.html
 *.csv
+*.png
+*.xlsx
+*.geojson
